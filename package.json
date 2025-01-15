@@ -1,0 +1,17 @@
+{
+  "name": "rspack-dll-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rspack build -c ./config/rspack.dll.config.js && rspack build -c ./config/rspack.dllRef.config.js",
+    "build:nodll": "rspack build -c ./config/rspack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rspack/cli": "^1.1.8",
+    "@rspack/core": "^1.1.8",
+    "relay-runtime": "^18.2.0"
+  }
+}
