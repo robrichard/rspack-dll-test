@@ -18,7 +18,7 @@ Uncaught SyntaxError: Unexpected token '.' (at main.js:4:90)
 
 Generated code:
 
-```
+```js
 (() => { // webpackBootstrap
 var __webpack_modules__ = ({
 "./node_modules/relay-runtime/index.js": (function (module, __unused_webpack_exports, __webpack_require__) {
