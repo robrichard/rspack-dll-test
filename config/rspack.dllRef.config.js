@@ -12,6 +12,7 @@ module.exports = {
       },
     }
   },
+  mode: 'development',
   plugins: [
     new rspack.DllReferencePlugin({
       context: path.join(__dirname, '..'),

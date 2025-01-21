@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@rspack/cli": "^1.1.8",
-    "@rspack/core": "^1.1.8",
+    "@rspack/cli": "^1.2.0",
+    "@rspack/core": "^1.2.0",
     "relay-runtime": "^18.2.0"
   }
 }
