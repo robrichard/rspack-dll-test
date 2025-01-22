@@ -13,6 +13,9 @@ module.exports = {
     libraryTarget: 'assign',
   },
   mode: 'development',
+  optimization: {
+    moduleIds: 'deterministic'
+  },
   plugins: [
     new rspack.DllPlugin({
       context: path.join(__dirname, '..'),
