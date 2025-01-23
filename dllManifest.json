@@ -8,11 +8,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4176"
+      "exports": true,
+      "id": 4176
     },
     "./node_modules/relay-runtime/lib/util/RelayConcreteNode.js": {
       "buildMeta": {
@@ -22,11 +21,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9558"
+      "exports": true,
+      "id": 9558
     },
     "./node_modules/relay-runtime/lib/handlers/connection/ConnectionInterface.js": {
       "buildMeta": {
@@ -36,11 +34,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3300"
+      "exports": true,
+      "id": 3300
     },
     "./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js": {
       "buildMeta": {
@@ -50,11 +47,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6687"
+      "exports": true,
+      "id": 6687
     },
     "./node_modules/relay-runtime/lib/experimental.js": {
       "buildMeta": {
@@ -64,11 +60,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2743"
+      "exports": true,
+      "id": 2743
     },
     "./node_modules/relay-runtime/lib/network/RelayObservable.js": {
       "buildMeta": {
@@ -78,11 +73,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5060"
+      "exports": true,
+      "id": 5060
     },
     "./node_modules/relay-runtime/lib/network/RelayQueryResponseCache.js": {
       "buildMeta": {
@@ -92,11 +86,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4973"
+      "exports": true,
+      "id": 4973
     },
     "./node_modules/relay-runtime/lib/store/ClientID.js": {
       "buildMeta": {
@@ -106,11 +99,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6063"
+      "exports": true,
+      "id": 6063
     },
     "./node_modules/relay-runtime/lib/store/live-resolvers/LiveResolverSuspenseSentinel.js": {
       "buildMeta": {
@@ -120,11 +112,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2658"
+      "exports": true,
+      "id": 2658
     },
     "./node_modules/relay-runtime/lib/query/PreloadableQueryRegistry.js": {
       "buildMeta": {
@@ -134,11 +125,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8080"
+      "exports": true,
+      "id": 8080
     },
     "./node_modules/relay-runtime/lib/util/RelayDefaultHandleKey.js": {
       "buildMeta": {
@@ -148,11 +138,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8858"
+      "exports": true,
+      "id": 8858
     },
     "./node_modules/relay-runtime/lib/multi-actor-environment/ActorUtils.js": {
       "buildMeta": {
@@ -162,11 +151,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "527"
+      "exports": true,
+      "id": 527
     },
     "./node_modules/relay-runtime/lib/mutations/RelayDeclarativeMutationConfig.js": {
       "buildMeta": {
@@ -176,11 +164,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3385"
+      "exports": true,
+      "id": 3385
     },
     "./node_modules/relay-runtime/lib/util/getRequestIdentifier.js": {
       "buildMeta": {
@@ -190,11 +177,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "676"
+      "exports": true,
+      "id": 676
     },
     "./node_modules/relay-runtime/lib/store/createFragmentSpecResolver.js": {
       "buildMeta": {
@@ -204,11 +190,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "221"
+      "exports": true,
+      "id": 221
     },
     "./node_modules/@babel/runtime/helpers/iterableToArray.js": {
       "buildMeta": {
@@ -218,11 +203,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8633"
+      "exports": true,
+      "id": 8633
     },
     "./node_modules/relay-runtime/lib/store/RelayModernOperationDescriptor.js": {
       "buildMeta": {
@@ -232,11 +216,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1071"
+      "exports": true,
+      "id": 1071
     },
     "./node_modules/@babel/runtime/helpers/toPrimitive.js": {
       "buildMeta": {
@@ -246,11 +229,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8513"
+      "exports": true,
+      "id": 8513
     },
     "./node_modules/@babel/runtime/helpers/toPropertyKey.js": {
       "buildMeta": {
@@ -260,11 +242,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9892"
+      "exports": true,
+      "id": 9892
     },
     "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js": {
       "buildMeta": {
@@ -274,11 +255,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1853"
+      "exports": true,
+      "id": 1853
     },
     "./node_modules/relay-runtime/lib/store/live-resolvers/getOutputTypeRecordIDs.js": {
       "buildMeta": {
@@ -288,11 +268,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5977"
+      "exports": true,
+      "id": 5977
     },
     "./node_modules/relay-runtime/lib/store/RelayStoreSubscriptions.js": {
       "buildMeta": {
@@ -302,11 +281,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7706"
+      "exports": true,
+      "id": 7706
     },
     "./node_modules/relay-runtime/lib/store/live-resolvers/isLiveStateValue.js": {
       "buildMeta": {
@@ -316,11 +294,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9007"
+      "exports": true,
+      "id": 9007
     },
     "./src/dllEntry.js": {
       "buildMeta": {
@@ -330,11 +307,10 @@
         "exportsType": "namespace",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "webpackExports",
-        "sideEffectFree": true
+        "exportsArgument": "webpackExports"
       },
       "exports": [],
-      "id": "4084"
+      "id": 4084
     },
     "./node_modules/relay-runtime/lib/store/DataChecker.js": {
       "buildMeta": {
@@ -344,11 +320,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1639"
+      "exports": true,
+      "id": 1639
     },
     "./node_modules/relay-runtime/lib/subscription/requestSubscription.js": {
       "buildMeta": {
@@ -358,11 +333,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5476"
+      "exports": true,
+      "id": 5476
     },
     "./node_modules/fbjs/lib/warning.js": {
       "buildMeta": {
@@ -372,11 +346,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3620"
+      "exports": true,
+      "id": 3620
     },
     "./node_modules/@babel/runtime/helpers/asyncToGenerator.js": {
       "buildMeta": {
@@ -386,11 +359,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2007"
+      "exports": true,
+      "id": 2007
     },
     "./node_modules/relay-runtime/lib/util/StringInterner.js": {
       "buildMeta": {
@@ -400,11 +372,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5280"
+      "exports": true,
+      "id": 5280
     },
     "./node_modules/relay-runtime/lib/index.js": {
       "buildMeta": {
@@ -414,11 +385,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3151"
+      "exports": true,
+      "id": 3151
     },
     "./node_modules/relay-runtime/lib/mutations/RelayRecordProxy.js": {
       "buildMeta": {
@@ -428,11 +398,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1228"
+      "exports": true,
+      "id": 1228
     },
     "./node_modules/relay-runtime/lib/store/createRelayContext.js": {
       "buildMeta": {
@@ -442,11 +411,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "594"
+      "exports": true,
+      "id": 594
     },
     "./node_modules/relay-runtime/lib/mutations/RelayRecordSourceSelectorProxy.js": {
       "buildMeta": {
@@ -456,11 +424,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4596"
+      "exports": true,
+      "id": 4596
     },
     "./node_modules/relay-runtime/lib/store/TypeID.js": {
       "buildMeta": {
@@ -470,11 +437,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5309"
+      "exports": true,
+      "id": 5309
     },
     "./node_modules/@babel/runtime/helpers/typeof.js": {
       "buildMeta": {
@@ -484,11 +450,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1201"
+      "exports": true,
+      "id": 1201
     },
     "./node_modules/relay-runtime/lib/query/GraphQLTag.js": {
       "buildMeta": {
@@ -498,11 +463,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5557"
+      "exports": true,
+      "id": 5557
     },
     "./node_modules/relay-runtime/lib/util/isPromise.js": {
       "buildMeta": {
@@ -512,11 +476,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7188"
+      "exports": true,
+      "id": 7188
     },
     "./node_modules/relay-runtime/lib/handlers/RelayDefaultHandlerProvider.js": {
       "buildMeta": {
@@ -526,11 +489,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2158"
+      "exports": true,
+      "id": 2158
     },
     "./node_modules/relay-runtime/lib/store/RelayReferenceMarker.js": {
       "buildMeta": {
@@ -540,11 +502,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4023"
+      "exports": true,
+      "id": 4023
     },
     "./node_modules/relay-runtime/lib/network/wrapNetworkWithLogObserver.js": {
       "buildMeta": {
@@ -554,11 +515,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3870"
+      "exports": true,
+      "id": 3870
     },
     "./node_modules/relay-runtime/lib/store/OperationExecutor.js": {
       "buildMeta": {
@@ -568,11 +528,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3898"
+      "exports": true,
+      "id": 3898
     },
     "./node_modules/relay-runtime/lib/store/RelayModernSelector.js": {
       "buildMeta": {
@@ -582,11 +541,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1447"
+      "exports": true,
+      "id": 1447
     },
     "./node_modules/relay-runtime/lib/util/getRefetchMetadata.js": {
       "buildMeta": {
@@ -596,11 +554,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "160"
+      "exports": true,
+      "id": 160
     },
     "./node_modules/relay-runtime/lib/store/RelayModernStore.js": {
       "buildMeta": {
@@ -610,11 +567,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1984"
+      "exports": true,
+      "id": 1984
     },
     "./node_modules/relay-runtime/lib/store/hasSignificantOverlappingIDs.js": {
       "buildMeta": {
@@ -624,11 +580,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "331"
+      "exports": true,
+      "id": 331
     },
     "./node_modules/relay-runtime/lib/util/RelayError.js": {
       "buildMeta": {
@@ -638,11 +593,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2299"
+      "exports": true,
+      "id": 2299
     },
     "./node_modules/relay-runtime/lib/network/RelayNetwork.js": {
       "buildMeta": {
@@ -652,11 +606,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2893"
+      "exports": true,
+      "id": 2893
     },
     "./node_modules/relay-runtime/lib/store/defaultRelayFieldLogger.js": {
       "buildMeta": {
@@ -666,11 +619,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "779"
+      "exports": true,
+      "id": 779
     },
     "./node_modules/relay-runtime/lib/mutations/commitLocalUpdate.js": {
       "buildMeta": {
@@ -680,11 +632,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5621"
+      "exports": true,
+      "id": 5621
     },
     "./node_modules/relay-runtime/lib/mutations/readUpdatableQuery.js": {
       "buildMeta": {
@@ -694,11 +645,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "761"
+      "exports": true,
+      "id": 761
     },
     "./node_modules/relay-runtime/lib/store/RelayModernRecord.js": {
       "buildMeta": {
@@ -708,11 +658,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8250"
+      "exports": true,
+      "id": 8250
     },
     "./node_modules/relay-runtime/lib/util/RelayProfiler.js": {
       "buildMeta": {
@@ -722,11 +671,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1241"
+      "exports": true,
+      "id": 1241
     },
     "./node_modules/relay-runtime/lib/util/getFragmentIdentifier.js": {
       "buildMeta": {
@@ -736,11 +684,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6956"
+      "exports": true,
+      "id": 6956
     },
     "./node_modules/relay-runtime/lib/store/defaultGetDataID.js": {
       "buildMeta": {
@@ -750,11 +697,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1517"
+      "exports": true,
+      "id": 1517
     },
     "./node_modules/relay-runtime/lib/store/RelayErrorTrie.js": {
       "buildMeta": {
@@ -764,11 +710,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7758"
+      "exports": true,
+      "id": 7758
     },
     "./node_modules/relay-runtime/lib/store/RelayReader.js": {
       "buildMeta": {
@@ -778,11 +723,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4159"
+      "exports": true,
+      "id": 4159
     },
     "./node_modules/relay-runtime/lib/util/generateID.js": {
       "buildMeta": {
@@ -792,11 +736,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7579"
+      "exports": true,
+      "id": 7579
     },
     "./node_modules/relay-runtime/lib/store/RelayRecordSource.js": {
       "buildMeta": {
@@ -806,11 +749,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8724"
+      "exports": true,
+      "id": 8724
     },
     "./node_modules/relay-runtime/lib/util/registerEnvironmentWithDevTools.js": {
       "buildMeta": {
@@ -820,11 +762,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9290"
+      "exports": true,
+      "id": 9290
     },
     "./node_modules/relay-runtime/lib/mutations/applyOptimisticMutation.js": {
       "buildMeta": {
@@ -834,11 +775,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "869"
+      "exports": true,
+      "id": 869
     },
     "./node_modules/relay-runtime/lib/handlers/connection/ConnectionHandler.js": {
       "buildMeta": {
@@ -848,11 +788,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1743"
+      "exports": true,
+      "id": 1743
     },
     "./node_modules/relay-runtime/index.js": {
       "buildMeta": {
@@ -862,11 +801,10 @@
         "exportsType": "dynamic",
         "defaultObject": "redirect",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4311"
+      "exports": true,
+      "id": 4311
     },
     "./node_modules/@babel/runtime/helpers/interopRequireDefault.js": {
       "buildMeta": {
@@ -876,11 +814,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5751"
+      "exports": true,
+      "id": 5751
     },
     "./node_modules/relay-runtime/lib/util/getPaginationVariables.js": {
       "buildMeta": {
@@ -890,11 +827,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3539"
+      "exports": true,
+      "id": 3539
     },
     "./node_modules/relay-runtime/lib/mutations/createUpdatableProxy.js": {
       "buildMeta": {
@@ -904,11 +840,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8138"
+      "exports": true,
+      "id": 8138
     },
     "./node_modules/relay-runtime/lib/mutations/commitMutation.js": {
       "buildMeta": {
@@ -918,11 +853,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1069"
+      "exports": true,
+      "id": 1069
     },
     "./node_modules/@babel/runtime/helpers/defineProperty.js": {
       "buildMeta": {
@@ -932,11 +866,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4512"
+      "exports": true,
+      "id": 4512
     },
     "./node_modules/relay-runtime/lib/util/shallowFreeze.js": {
       "buildMeta": {
@@ -946,11 +879,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7672"
+      "exports": true,
+      "id": 7672
     },
     "./node_modules/relay-runtime/lib/network/ConvertToExecuteFunction.js": {
       "buildMeta": {
@@ -960,11 +892,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7192"
+      "exports": true,
+      "id": 7192
     },
     "./node_modules/relay-runtime/lib/store/hasOverlappingIDs.js": {
       "buildMeta": {
@@ -974,11 +905,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9552"
+      "exports": true,
+      "id": 9552
     },
     "./node_modules/relay-runtime/lib/store/RelayResponseNormalizer.js": {
       "buildMeta": {
@@ -988,11 +918,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1147"
+      "exports": true,
+      "id": 1147
     },
     "./node_modules/relay-runtime/lib/util/handlePotentialSnapshotErrors.js": {
       "buildMeta": {
@@ -1002,11 +931,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6648"
+      "exports": true,
+      "id": 6648
     },
     "./node_modules/relay-runtime/lib/util/recycleNodesInto.js": {
       "buildMeta": {
@@ -1016,11 +944,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5578"
+      "exports": true,
+      "id": 5578
     },
     "./node_modules/relay-runtime/lib/store/RelayStoreUtils.js": {
       "buildMeta": {
@@ -1030,11 +957,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1380"
+      "exports": true,
+      "id": 1380
     },
     "./node_modules/relay-runtime/lib/util/createPayloadFor3DField.js": {
       "buildMeta": {
@@ -1044,11 +970,25 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8958"
+      "exports": true,
+      "id": 8958
+    },
+    "./src/dllModule.js": {
+      "buildMeta": {
+        "strictEsmModule": false,
+        "hasTopLevelAwait": false,
+        "esm": true,
+        "exportsType": "namespace",
+        "defaultObject": "false",
+        "moduleArgument": "module",
+        "exportsArgument": "webpackExports"
+      },
+      "exports": [
+        "myFunction"
+      ],
+      "id": 1847
     },
     "./node_modules/relay-runtime/lib/util/stableCopy.js": {
       "buildMeta": {
@@ -1058,11 +998,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1411"
+      "exports": true,
+      "id": 1411
     },
     "./node_modules/relay-runtime/lib/store/live-resolvers/resolverDataInjector.js": {
       "buildMeta": {
@@ -1072,11 +1011,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7516"
+      "exports": true,
+      "id": 7516
     },
     "./node_modules/relay-runtime/lib/store/cloneRelayHandleSourceField.js": {
       "buildMeta": {
@@ -1086,11 +1024,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "5486"
+      "exports": true,
+      "id": 5486
     },
     "./node_modules/relay-runtime/lib/util/isEmptyObject.js": {
       "buildMeta": {
@@ -1100,11 +1037,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9589"
+      "exports": true,
+      "id": 9589
     },
     "./node_modules/relay-runtime/lib/util/getPaginationMetadata.js": {
       "buildMeta": {
@@ -1114,11 +1050,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9634"
+      "exports": true,
+      "id": 9634
     },
     "./node_modules/relay-runtime/lib/store/live-resolvers/LiveResolverCache.js": {
       "buildMeta": {
@@ -1128,11 +1063,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1091"
+      "exports": true,
+      "id": 1091
     },
     "./node_modules/@babel/runtime/helpers/createForOfIteratorHelper.js": {
       "buildMeta": {
@@ -1142,11 +1076,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "503"
+      "exports": true,
+      "id": 503
     },
     "./node_modules/relay-runtime/lib/util/RelayReplaySubject.js": {
       "buildMeta": {
@@ -1156,11 +1089,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9480"
+      "exports": true,
+      "id": 9480
     },
     "./node_modules/relay-runtime/lib/store/RelayRecordState.js": {
       "buildMeta": {
@@ -1170,11 +1102,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6528"
+      "exports": true,
+      "id": 6528
     },
     "./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js": {
       "buildMeta": {
@@ -1184,11 +1115,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6386"
+      "exports": true,
+      "id": 6386
     },
     "./node_modules/relay-runtime/lib/util/getPendingOperationsForFragment.js": {
       "buildMeta": {
@@ -1198,11 +1128,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6016"
+      "exports": true,
+      "id": 6016
     },
     "./node_modules/@babel/runtime/helpers/arrayLikeToArray.js": {
       "buildMeta": {
@@ -1212,11 +1141,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3558"
+      "exports": true,
+      "id": 3558
     },
     "./node_modules/fbjs/lib/emptyFunction.js": {
       "buildMeta": {
@@ -1226,11 +1154,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "139"
+      "exports": true,
+      "id": 139
     },
     "./node_modules/fbjs/lib/areEqual.js": {
       "buildMeta": {
@@ -1240,11 +1167,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1305"
+      "exports": true,
+      "id": 1305
     },
     "./node_modules/relay-runtime/lib/store/ResolverCache.js": {
       "buildMeta": {
@@ -1254,11 +1180,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9537"
+      "exports": true,
+      "id": 9537
     },
     "./node_modules/@babel/runtime/helpers/toConsumableArray.js": {
       "buildMeta": {
@@ -1268,11 +1193,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8235"
+      "exports": true,
+      "id": 8235
     },
     "./node_modules/invariant/browser.js": {
       "buildMeta": {
@@ -1282,11 +1206,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1143"
+      "exports": true,
+      "id": 1143
     },
     "./node_modules/relay-runtime/lib/store/waitForFragmentExperimental.js": {
       "buildMeta": {
@@ -1296,11 +1219,23 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7363"
+      "exports": true,
+      "id": 7363
+    },
+    "./node_modules/relay-runtime/lib/store/StoreInspector.js": {
+      "buildMeta": {
+        "strictEsmModule": false,
+        "hasTopLevelAwait": false,
+        "esm": false,
+        "exportsType": "unset",
+        "defaultObject": "false",
+        "moduleArgument": "module",
+        "exportsArgument": "exports"
+      },
+      "exports": true,
+      "id": 5810
     },
     "./node_modules/relay-runtime/lib/query/fetchQuery.js": {
       "buildMeta": {
@@ -1310,11 +1245,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8216"
+      "exports": true,
+      "id": 8216
     },
     "./node_modules/relay-runtime/lib/query/fetchQueryInternal.js": {
       "buildMeta": {
@@ -1324,11 +1258,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7106"
+      "exports": true,
+      "id": 7106
     },
     "./node_modules/relay-runtime/lib/store/cloneRelayScalarHandleSourceField.js": {
       "buildMeta": {
@@ -1338,11 +1271,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3871"
+      "exports": true,
+      "id": 3871
     },
     "./node_modules/relay-runtime/lib/store/normalizeResponse.js": {
       "buildMeta": {
@@ -1352,11 +1284,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9460"
+      "exports": true,
+      "id": 9460
     },
     "./node_modules/relay-runtime/lib/util/getValueAtPath.js": {
       "buildMeta": {
@@ -1366,11 +1297,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1685"
+      "exports": true,
+      "id": 1685
     },
     "./node_modules/relay-runtime/lib/util/isScalarAndEqual.js": {
       "buildMeta": {
@@ -1380,11 +1310,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7669"
+      "exports": true,
+      "id": 7669
     },
     "./node_modules/relay-runtime/lib/store/readInlineData.js": {
       "buildMeta": {
@@ -1394,11 +1323,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1507"
+      "exports": true,
+      "id": 1507
     },
     "./node_modules/relay-runtime/lib/store/isRelayModernEnvironment.js": {
       "buildMeta": {
@@ -1408,11 +1336,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "641"
+      "exports": true,
+      "id": 641
     },
     "./node_modules/relay-runtime/lib/store/ViewerPattern.js": {
       "buildMeta": {
@@ -1422,11 +1349,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2691"
+      "exports": true,
+      "id": 2691
     },
     "./node_modules/relay-runtime/lib/mutations/RelayRecordSourceProxy.js": {
       "buildMeta": {
@@ -1436,11 +1362,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "7703"
+      "exports": true,
+      "id": 7703
     },
     "./node_modules/relay-runtime/lib/util/RelayFeatureFlags.js": {
       "buildMeta": {
@@ -1450,11 +1375,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1230"
+      "exports": true,
+      "id": 1230
     },
     "./node_modules/relay-runtime/lib/store/RelayOperationTracker.js": {
       "buildMeta": {
@@ -1464,11 +1388,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1152"
+      "exports": true,
+      "id": 1152
     },
     "./node_modules/relay-runtime/lib/util/getOperation.js": {
       "buildMeta": {
@@ -1478,11 +1401,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2576"
+      "exports": true,
+      "id": 2576
     },
     "./node_modules/relay-runtime/lib/store/RelayPublishQueue.js": {
       "buildMeta": {
@@ -1492,11 +1414,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3981"
+      "exports": true,
+      "id": 3981
     },
     "./node_modules/relay-runtime/lib/multi-actor-environment/ActorIdentifier.js": {
       "buildMeta": {
@@ -1506,11 +1427,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6658"
+      "exports": true,
+      "id": 6658
     },
     "./node_modules/relay-runtime/lib/store/observeFragmentExperimental.js": {
       "buildMeta": {
@@ -1520,11 +1440,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "593"
+      "exports": true,
+      "id": 593
     },
     "./node_modules/relay-runtime/lib/handlers/connection/MutationHandlers.js": {
       "buildMeta": {
@@ -1534,11 +1453,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1093"
+      "exports": true,
+      "id": 1093
     },
     "./node_modules/relay-runtime/lib/store/RelayModernFragmentSpecResolver.js": {
       "buildMeta": {
@@ -1548,11 +1466,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8474"
+      "exports": true,
+      "id": 8474
     },
     "./node_modules/relay-runtime/lib/store/RelayOptimisticRecordSource.js": {
       "buildMeta": {
@@ -1562,11 +1479,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "3754"
+      "exports": true,
+      "id": 3754
     },
     "./node_modules/relay-runtime/lib/util/getRelayHandleKey.js": {
       "buildMeta": {
@@ -1576,11 +1492,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1126"
+      "exports": true,
+      "id": 1126
     },
     "./node_modules/relay-runtime/lib/util/resolveImmediate.js": {
       "buildMeta": {
@@ -1590,11 +1505,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9468"
+      "exports": true,
+      "id": 9468
     },
     "./node_modules/relay-runtime/lib/store/ResolverFragments.js": {
       "buildMeta": {
@@ -1604,11 +1518,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6253"
+      "exports": true,
+      "id": 6253
     },
     "./node_modules/relay-runtime/lib/util/withProvidedVariables.js": {
       "buildMeta": {
@@ -1618,11 +1531,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9147"
+      "exports": true,
+      "id": 9147
     },
     "./node_modules/relay-runtime/lib/util/deepFreeze.js": {
       "buildMeta": {
@@ -1632,11 +1544,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "2232"
+      "exports": true,
+      "id": 2232
     },
     "./node_modules/@babel/runtime/helpers/nonIterableSpread.js": {
       "buildMeta": {
@@ -1646,11 +1557,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "6426"
+      "exports": true,
+      "id": 6426
     },
     "./node_modules/relay-runtime/lib/util/withStartAndDuration.js": {
       "buildMeta": {
@@ -1660,11 +1570,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4281"
+      "exports": true,
+      "id": 4281
     },
     "./node_modules/relay-runtime/lib/mutations/readUpdatableFragment.js": {
       "buildMeta": {
@@ -1674,11 +1583,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1264"
+      "exports": true,
+      "id": 1264
     },
     "./node_modules/relay-runtime/lib/query/fetchQuery_DEPRECATED.js": {
       "buildMeta": {
@@ -1688,11 +1596,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1530"
+      "exports": true,
+      "id": 1530
     },
     "./node_modules/@babel/runtime/helpers/objectSpread2.js": {
       "buildMeta": {
@@ -1702,11 +1609,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "4454"
+      "exports": true,
+      "id": 4454
     },
     "./node_modules/relay-runtime/lib/mutations/validateMutation.js": {
       "buildMeta": {
@@ -1716,11 +1622,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "9284"
+      "exports": true,
+      "id": 9284
     },
     "./node_modules/relay-runtime/lib/store/RelayConcreteVariables.js": {
       "buildMeta": {
@@ -1730,11 +1635,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "8298"
+      "exports": true,
+      "id": 8298
     },
     "./node_modules/relay-runtime/lib/mutations/RelayRecordSourceMutator.js": {
       "buildMeta": {
@@ -1744,11 +1648,10 @@
         "exportsType": "unset",
         "defaultObject": "false",
         "moduleArgument": "module",
-        "exportsArgument": "exports",
-        "sideEffectFree": false
+        "exportsArgument": "exports"
       },
-      "exports": [],
-      "id": "1697"
+      "exports": true,
+      "id": 1697
     }
   },
   "name": "my_dll"

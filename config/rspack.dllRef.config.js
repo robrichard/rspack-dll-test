@@ -13,6 +13,9 @@ module.exports = {
     }
   },
   mode: 'development',
+  optimization: {
+    moduleIds: 'deterministic'
+  },
   plugins: [
     new rspack.DllReferencePlugin({
       context: path.join(__dirname, '..'),

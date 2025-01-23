@@ -1,28 +1,141 @@
 Build with dll and dll reference plugin: `npm run build`
 
 ```
-$ npm run build                                                       
+$ npm run build
 
 > rspack-dll-test@1.0.0 build
 > rspack build -c ./config/rspack.dll.config.js && rspack build -c ./config/rspack.dllRef.config.js
 
-Rspack compiled successfully in 67 ms
+Rspack compiled successfully in 74 ms
+Invalid configuration object. Rspack has been initialized using a configuration object that does not match the API schema.
+- Expected string, received object at "manifest", or Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayModernEnvironment.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/RelayConcreteNode.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/handlers/connection/ConnectionInterface.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/experimental.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/network/RelayObservable.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/network/RelayQueryResponseCache.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/ClientID.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/live-resolvers/LiveResolverSuspenseSentinel.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/query/PreloadableQueryRegistry.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/RelayDefaultHandleKey.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/multi-actor-environment/ActorUtils.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/RelayDeclarativeMutationConfig.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getRequestIdentifier.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/createFragmentSpecResolver.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/iterableToArray.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayModernOperationDescriptor.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/toPrimitive.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/toPropertyKey.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/arrayWithoutHoles.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/live-resolvers/getOutputTypeRecordIDs.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayStoreSubscriptions.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/live-resolvers/isLiveStateValue.js.id"
+- Expected string, received number at "manifest.content../src/dllEntry.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/DataChecker.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/subscription/requestSubscription.js.id"
+- Expected string, received number at "manifest.content../node_modules/fbjs/lib/warning.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/asyncToGenerator.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/StringInterner.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/index.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/RelayRecordProxy.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/createRelayContext.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/RelayRecordSourceSelectorProxy.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/TypeID.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/typeof.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/query/GraphQLTag.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/isPromise.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/handlers/RelayDefaultHandlerProvider.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayReferenceMarker.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/network/wrapNetworkWithLogObserver.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/OperationExecutor.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayModernSelector.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getRefetchMetadata.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayModernStore.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/hasSignificantOverlappingIDs.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/RelayError.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/network/RelayNetwork.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/defaultRelayFieldLogger.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/commitLocalUpdate.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/readUpdatableQuery.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayModernRecord.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/RelayProfiler.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getFragmentIdentifier.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/defaultGetDataID.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayErrorTrie.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayReader.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/generateID.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayRecordSource.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/registerEnvironmentWithDevTools.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/applyOptimisticMutation.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/handlers/connection/ConnectionHandler.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/index.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/interopRequireDefault.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getPaginationVariables.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/createUpdatableProxy.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/commitMutation.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/defineProperty.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/shallowFreeze.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/network/ConvertToExecuteFunction.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/hasOverlappingIDs.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayResponseNormalizer.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/handlePotentialSnapshotErrors.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/recycleNodesInto.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayStoreUtils.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/createPayloadFor3DField.js.id"
+- Expected string, received number at "manifest.content../src/dllModule.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/stableCopy.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/live-resolvers/resolverDataInjector.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/cloneRelayHandleSourceField.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/isEmptyObject.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getPaginationMetadata.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/live-resolvers/LiveResolverCache.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/createForOfIteratorHelper.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/RelayReplaySubject.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayRecordState.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getPendingOperationsForFragment.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/arrayLikeToArray.js.id"
+- Expected string, received number at "manifest.content../node_modules/fbjs/lib/emptyFunction.js.id"
+- Expected string, received number at "manifest.content../node_modules/fbjs/lib/areEqual.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/ResolverCache.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/toConsumableArray.js.id"
+- Expected string, received number at "manifest.content../node_modules/invariant/browser.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/waitForFragmentExperimental.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/StoreInspector.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/query/fetchQuery.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/query/fetchQueryInternal.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/cloneRelayScalarHandleSourceField.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/normalizeResponse.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getValueAtPath.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/isScalarAndEqual.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/readInlineData.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/isRelayModernEnvironment.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/ViewerPattern.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/RelayRecordSourceProxy.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/RelayFeatureFlags.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayOperationTracker.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getOperation.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayPublishQueue.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/multi-actor-environment/ActorIdentifier.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/observeFragmentExperimental.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/handlers/connection/MutationHandlers.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayModernFragmentSpecResolver.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayOptimisticRecordSource.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/getRelayHandleKey.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/resolveImmediate.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/ResolverFragments.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/withProvidedVariables.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/deepFreeze.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/nonIterableSpread.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/util/withStartAndDuration.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/readUpdatableFragment.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/query/fetchQuery_DEPRECATED.js.id"
+- Expected string, received number at "manifest.content../node_modules/@babel/runtime/helpers/objectSpread2.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/validateMutation.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/store/RelayConcreteVariables.js.id"
+- Expected string, received number at "manifest.content../node_modules/relay-runtime/lib/mutations/RelayRecordSourceMutator.js.id", or Required at "content"
+- Required at "name"
 Rspack compiled successfully in 12 ms
-```
-
-Open `public/index.html` in a browser and see in the console:
 
 ```
-Uncaught SyntaxError: Unexpected token '.' (at main.js:4:90)
-```
-
-Generated code:
-
-```js
-(() => { // webpackBootstrap
-var __webpack_modules__ = ({
-"./node_modules/relay-runtime/index.js": (function (module, __unused_webpack_exports, __webpack_require__) {
-module.exports = __webpack_require__(/*! dll-reference my_dll */ "dll-reference my_dll")(./node_modules/relay-runtime/index.js);
-```
-
-Note unquoted string reference `(./node_modules/relay-runtime/index.js);`
